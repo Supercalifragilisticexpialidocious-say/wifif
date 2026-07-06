@@ -11,7 +11,7 @@
 //   const SERVER_URL = '';
 //
 // WALANG TRAILING SLASH!
-const SERVER_URL = ''; // <-- ILAGAY DITO ANG SERVER URL MO
+const SERVER_URL = 'https://wifif.up.railway.app'; // <-- ILAGAY DITO ANG SERVER URL MO
 
 // ===== DOM Elements =====
 const navItems = document.querySelectorAll('.nav-item');
